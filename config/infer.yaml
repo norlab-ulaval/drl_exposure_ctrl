@@ -1,4 +1,4 @@
-seqs_root: /home/uni/Data/drl_exposure_ctrl
+seqs_root: /home/user/code/drl_exposure_ctrl/data/drl_expo_ctrl_testing/drl_exposure_ctrl
 sequences: 
   -
     seq_name: test_corridor

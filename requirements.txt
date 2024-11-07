@@ -1,0 +1,5 @@
+opencv-python
+pyyaml
+tensorboard
+scipy
+networkx==3.1
